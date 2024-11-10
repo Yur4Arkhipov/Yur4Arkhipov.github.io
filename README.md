@@ -2,4 +2,4 @@
 
 Project for university
 
-- To open search in browser: [link](Yur4Arkhipov.github.io) 
+- To open search in browser: Yur4Arkhipov.github.io 
